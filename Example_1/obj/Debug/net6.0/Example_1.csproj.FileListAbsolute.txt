@@ -1,0 +1,15 @@
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/bin/Debug/net6.0/Example_1
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/bin/Debug/net6.0/Example_1.deps.json
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/bin/Debug/net6.0/Example_1.runtimeconfig.json
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/bin/Debug/net6.0/Example_1.dll
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/bin/Debug/net6.0/Example_1.pdb
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/Example_1.csproj.AssemblyReference.cache
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/Example_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/Example_1.AssemblyInfoInputs.cache
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/Example_1.AssemblyInfo.cs
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/Example_1.csproj.CoreCompileInputs.cache
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/Example_1.dll
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/refint/Example_1.dll
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/Example_1.pdb
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/Example_1.genruntimeconfig.cache
+/Users/tonyatrushkova/Documents/Others/Python/Programming languagues/Lesson_c#_1/Example_1/obj/Debug/net6.0/ref/Example_1.dll
